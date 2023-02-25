@@ -29,6 +29,7 @@ class ProfilePage extends StatelessWidget {
                   letterSpacing: 2.5,
                   fontWeight: FontWeight.bold),
             ),
+            PlatWidget(),
             Container(
               decoration: BoxDecoration(
                 color: Colors.white,

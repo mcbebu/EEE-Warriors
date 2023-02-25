@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:nanyang_marche/pages/ProfilePage.dart';
-import 'package:nanyang_marche/pages/chats/chatDetails.dart';
-import 'package:nanyang_marche/pages/marketPage.dart';
-import 'package:nanyang_marche/pages/uploadPage.dart';
+import 'package:ninja_walkers/pages/ProfilePage.dart';
+import 'package:ninja_walkers/pages/chats/chatDetails.dart';
+import 'package:ninja_walkers/pages/marketPage.dart';
+import 'package:ninja_walkers/pages/uploadPage.dart';
 import 'package:curved_navigation_bar/curved_navigation_bar.dart';
 
 class HomePage extends StatefulWidget {

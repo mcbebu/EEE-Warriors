@@ -1,7 +1,13 @@
 import 'package:flutter/material.dart';
-import 'package:ninja_walkers/pages/marketPage.dart';
+import 'package:ninja_walkers/pages/homePage.dart';
+import 'package:firebase_core/firebase_core.dart';
+import 'firebase_options.dart';
 
-void main() {
+void main() async {
+  WidgetsFlutterBinding.ensureInitialized();
+  await Firebase.initializeApp(
+    options: DefaultFirebaseOptions.currentPlatform,
+  );
   runApp(const MyApp());
 }
 
@@ -17,6 +23,6 @@ class MyApp extends StatelessWidget {
           primarySwatch: Colors.blue,
         ),
         debugShowCheckedModeBanner: false,
-        home: MarketPage());
+        home: HomePage());
   }
 }
