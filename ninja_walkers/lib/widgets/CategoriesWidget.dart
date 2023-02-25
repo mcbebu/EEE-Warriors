@@ -50,8 +50,6 @@ class CategoriesWidget extends StatelessWidget {
       child: Row(
         children: [
           Container(
-            // margin: EdgeInsets.symmetric(horizontal: 10),
-            // padding: EdgeInsets.symmetric(vertical: 5, horizontal: 10),
             decoration: BoxDecoration(
               color: Colors.white,
               borderRadius: BorderRadius.circular(10),
@@ -64,14 +62,6 @@ class CategoriesWidget extends StatelessWidget {
                   width: 410,
                   height: 610,
                 ),
-                // Text(
-                // categories[0],
-                // style: TextStyle(
-                //   fontWeight: FontWeight.bold,
-                //   fontSize: 17,
-                //   color: Color(0xFF072E54),
-                // ),
-                // ),
               ],
             ),
           ),
