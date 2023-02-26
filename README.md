@@ -1,3 +1,3 @@
 # Ninja Van Code Dojo 2023 🥷
 
-During the 2023 Ninja Van Code Dojo competition, EEE warriors consisting of Yuan Sheng, Jake, Keith, and Kenneth created Ninja Walker, which was awarded the prize for both creativity and feasibility out of the 22 teams that participated in the event.
+As part of the 2023 Ninja Van Code Dojo competition, the EEE warriors team - comprised of Yuan Sheng, Jake, Keith, and Kenneth - utilized Flutter to develop Ninja Walker. This innovative application was recognized as the most creative and feasible project among the 22 participating teams.
