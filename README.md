@@ -1,3 +1,3 @@
-# EEE-Warriors
+# Code Dojo 2023
 
-Hi We are the EEE warriors 
+During the 2023 Ninja Van Code Dojo competition, EEE warriors consisting of Yuan Sheng, Jake, Keith, and Kenneth created Ninja Walker, which was awarded the prize for both creativity and feasibility. This project was selected as the top entry out of the 22 teams that participated in the event.
