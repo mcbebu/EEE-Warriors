@@ -53,8 +53,6 @@ dependencies:
   google_fonts: ^4.0.3
   jiffy: ^5.0.0
   material: ^1.0.0+2
-  qr_code_scanner: ^1.0.1
-  url_launcher: ^6.0.3
   js: ^0.6.3
 
 
@@ -74,18 +72,7 @@ dev_dependencies:
 
 # The following section is specific to Flutter packages.
 flutter:
-  plugin:
-    platforms:
-      android:
-        package: dev.steenbakker.mobile_scanner
-        pluginClass: MobileScannerPlugin
-      ios:
-        pluginClass: MobileScannerPlugin
-      macos:
-        pluginClass: MobileScannerPlugin
-      web:
-        pluginClass: MobileScannerWebPlugin
-        fileName: mobile_scanner_web_plugin.dart
+
   assets:
     - assets/images/
 
